@@ -1,6 +1,3 @@
-Incorporating color into a README file can be challenging since GitHub's Markdown doesn't natively support color customization within the text. However, you can make your README visually impressive and more engaging by using emojis, badges, and images, which indirectly add color and visual interest. Let's enhance your README with these elements to make it stand out more:
-
----
 
 # Welcome to Shedrack Wambua's Project Collaboration Space! 🌟
 
