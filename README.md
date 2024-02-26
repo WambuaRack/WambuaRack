@@ -1,4 +1,6 @@
 
+
+
 # Welcome to Shedrack Wambua's Project Collaboration Space! 🌟
 
 👋 Hi there! I'm **Shedrack Wambua**, a passionate learner and aspiring expert in the fields of Data Science, Artificial Intelligence, Machine Learning, Full Stack Development, Hardware Engineering, Software Development, and Innovation. I'm currently diving deep into Data Science and am on the lookout for opportunities to collaborate on Machine Learning projects.
@@ -13,6 +15,7 @@ I'm deeply fascinated by the power of data and how it can be used to solve compl
 - **Mobile Development:** Experienced in **Flutter** for creating visually appealing and functionally rich mobile applications for both Android and iOS platforms.
 - **Web Development:** Skilled in **HTML/CSS** and **JavaScript**, enabling me to craft responsive and interactive web pages. My full-stack development capabilities are further enhanced with my knowledge of **PHP** and **MySQL** for backend and database management.
 - **Database Management:** Competent in **MySQL**, allowing me to design, implement, and manage complex databases effectively for web applications.
+- **Cybersecurity:** Proficient in cybersecurity principles, including network security, encryption, threat detection, and risk management.
 
 ## Interests 🌐
 
@@ -32,10 +35,9 @@ I'm looking to collaborate on Machine Learning projects, particularly those that
 
 ## Let's Connect! 📫
 
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shedrack-wambua-7752b8255)
 - **Twitter:** [@rackwambus](https://twitter.com/rackwambus)
-- **WhatsApp:** `+254727177155`
+- **WhatsApp:** +254727177155
 
 Feel free to reach out to me for potential collaborations, learning opportunities, or even just to chat about tech and innovation. I'm excited to connect with fellow enthusiasts and professionals who share a passion for making a difference through technology.
-
----
 
