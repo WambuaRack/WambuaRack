@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WambuaRack
+- 👋 Hi, I’m Shedrack Wambua
 - 👀 I’m interested in Data science,AI, MACHINE LEARNING, FULL STACK DEVELOPING,HARDWARE RNGINEERING,SOFTWARE AND INNOVATION..
 - 🌱 I’m currently learning DATA SCIENCE...
 - 💞️ I’m looking to collaborate on Machine Learning
