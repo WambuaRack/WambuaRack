@@ -1,43 +1,42 @@
+<h1 align="center">Hi 👋, I'm SHEDRACK WAMBUA</h1>
+<h3 align="center">A passionate Full Stack Developer from Kenya</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wambuarack&label=Profile%20views&color=0e75b6&style=flat" alt="wambuarack" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wambuarack" alt="wambuarack" /></a> </p>
 
-# Welcome to Shedrack Wambua's Project Collaboration Space! 🌟
+<p align="left"> <a href="https://twitter.com/@rackwambus" target="blank"><img src="https://img.shields.io/twitter/follow/@rackwambus?logo=twitter&style=for-the-badge" alt="@rackwambus" /></a> </p>
 
-👋 Hi there! I'm **Shedrack Wambua**, a passionate learner and aspiring expert in the fields of Data Science, Artificial Intelligence, Machine Learning, Full Stack Development, Hardware Engineering, Software Development, and Innovation. I'm currently diving deep into Data Science and am on the lookout for opportunities to collaborate on Machine Learning projects.
+- 🔭 I’m currently working on [School Management Sytem](https://github.com/WambuaRack/HIGH-SCHOOL-DATABASE-SYSTEM)
 
-## About Me 🚀
+- 🌱 I’m currently learning **LARAVEL,**
 
-I'm deeply fascinated by the power of data and how it can be used to solve complex problems, make informed decisions, and drive innovation across various industries. My journey has led me to explore various aspects of technology, from the intricacies of hardware engineering to the limitless possibilities of AI and machine learning. As I continue to learn and grow in the field of data science, I'm eager to apply my knowledge in practical, real-world projects and collaborate with like-minded individuals.
+- 👯 I’m looking to collaborate on [Backend Development ->php](https://github.com/WambuaRack/FULL-STACK-WEBSITE)
 
-## Skills 💻
+- 🤝 I’m looking for help with **Machine Learning**
 
-- **Programming Languages:** Proficient in **C++**, **Python**, **PHP**, and **Visual Basic**. These languages are the backbone of my software development and data manipulation tasks.
-- **Mobile Development:** Experienced in **Flutter** for creating visually appealing and functionally rich mobile applications for both Android and iOS platforms.
-- **Web Development:** Skilled in **HTML/CSS** and **JavaScript**, enabling me to craft responsive and interactive web pages. My full-stack development capabilities are further enhanced with my knowledge of **PHP** and **MySQL** for backend and database management.
-- **Database Management:** Competent in **MySQL**, allowing me to design, implement, and manage complex databases effectively for web applications.
-- **Cybersecurity:** Proficient in cybersecurity principles, including network security, encryption, threat detection, and risk management.
+- 👨‍💻 All of my projects are available at [https://github.com/WambuaRack/wambuarack.github.io](https://github.com/WambuaRack/wambuarack.github.io)
 
-## Interests 🌐
+- 💬 Ask me about **PHP,SQL,C++,PYTHON,VISUAL BASIC;**
 
-- **Data Science:** Currently, my primary focus is on mastering data science. I'm dedicated to learning about data visualization, statistical analysis, data preprocessing, and machine learning algorithms.
-- **AI & Machine Learning:** Fascinated by the potential of AI and machine learning to transform industries and improve lives. I'm keen on exploring deep learning, natural language processing, and reinforcement learning.
-- **Full Stack Development:** I have a strong interest in understanding both the front and back ends of web development, aiming to create seamless, efficient, and scalable web applications.
-- **Hardware Engineering:** My curiosity doesn't stop at software. I'm also intrigued by the hardware aspect, understanding how physical components can be optimized for better performance and innovation.
-- **Software & Innovation:** Always on the lookout for the latest trends and technologies that push the boundaries of what's possible in software development and tech innovation.
+- 📫 How to reach me **shedrackwambua40@gmail.com**
 
-## Learning Journey 📚
+- ⚡ Fun fact **I AM AMAZINGLY FUNNY**
 
-I am currently immersing myself in Data Science, diligently working through various courses, tutorials, and projects to solidify my understanding and skills in this area. My goal is to not only grasp the theoretical aspects but also gain hands-on experience by applying what I learn in practical scenarios.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@rackwambus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rackwambus" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ shedrack-wambua-7752b8255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ shedrack-wambua-7752b8255" height="30" width="40" /></a>
+<a href="https://fb.com/rack wambus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rack wambus" height="30" width="40" /></a>
+<a href="https://instagram.com/shedrack5675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shedrack5675" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@shedrackwambua1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shedrackwambua1312" height="30" width="40" /></a>
+</p>
 
-## Collaboration Interests 🤝
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-I'm looking to collaborate on Machine Learning projects, particularly those that are geared towards social good, innovation, or tackling challenging problems in unique and efficient ways. If you're working on something that aligns with any of my interests or if you have a project that could benefit from my growing skill set, I'd love to hear from you.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wambuarack&show_icons=true&locale=en&layout=compact" alt="wambuarack" /></p>
 
-## Let's Connect! 📫
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wambuarack&show_icons=true&locale=en" alt="wambuarack" /></p>
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shedrack-wambua-7752b8255)
-- **Twitter:** [@rackwambus](https://twitter.com/rackwambus)
-- **WhatsApp:** +254727177155
-
-Feel free to reach out to me for potential collaborations, learning opportunities, or even just to chat about tech and innovation. I'm excited to connect with fellow enthusiasts and professionals who share a passion for making a difference through technology.
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wambuarack&" alt="wambuarack" /></p>
