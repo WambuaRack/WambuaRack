@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Shedrack Wambua!
 
 ### Software Developer | AI/ML Engineer | Cybersecurity Enthusiast | Fullstack Developer | IoT Engineer  
-🌟 Founder of Rackafritech | 🎯 Tech Innovator | 💡 AI & Web Expert  
+ 🎯 Tech Innovator | 💡 AI & Web Expert  
 
 I'm passionate about building innovative solutions and constantly expanding my technical horizons. I'm currently seeking opportunities to grow my skills and contribute to impactful projects.
 
