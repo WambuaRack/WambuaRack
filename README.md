@@ -24,7 +24,7 @@ I design and build end-to-end data pipelines, automate workflows, and develop in
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="55" alt="hadoop logo" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="55" alt="spark logo" />
+  
 
   <!-- Databases -->
   <br/>
@@ -76,11 +76,7 @@ I design and build end-to-end data pipelines, automate workflows, and develop in
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
