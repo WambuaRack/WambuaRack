@@ -73,17 +73,7 @@ I build scalable data pipelines, develop intelligent AI systems, and create mode
   <img src="https://github-profile-trophy.vercel.app?username=WambuaRack&theme=dracula&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub trophies"/>
 </div>
 
----
 
-<h2 align="center">🕹️ Contribution Graph</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 <h2 align="center">🌍 Connect With Me</h2>
 
