@@ -1,29 +1,26 @@
-<h1 align="center">Hey 👋, I'm Shedrack Wambua</h1>
-<h3 align="center">🚀 Passionate Computer Scientist | AI & ML Enthusiast | Full-Stack Developer</h3>
+<h1 align="center">👋 Hey there, I'm Shedrack Wambua</h1>
+<h3 align="center">💼 Data Engineer | 🧠 AI & ML Developer | 💻 Full-Stack Software Engineer</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,go,graphql,rust,nestjs,aws,git" height="60" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,tailwind,django,flask,go,rust,graphql,postgres,mongodb,mysql,firebase,aws,gcp,azure,git,github,docker,airflow,linux" height="60" alt="tech stack logos" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shedrack-wambua-7752b8255" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/WambuaRack" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub"/>
+  </a>
+  <a href="mailto:shedrackwambu40@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Email"/>
   </a>
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo"/>
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo"/>
-  </a>
-  <a href="https://dev.to/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="devto logo"/>
-  </a>
-  <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="twitch logo"/>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter"/>
   </a>
 </div>
 
@@ -36,14 +33,35 @@
 
 ###
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+  <a href="https://github.com/WambuaRack/AI-Virtual-Assistant" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WambuaRack&repo=AI-Virtual-Assistant&theme=dracula" />
+  </a>
+  <a href="https://github.com/WambuaRack/Online-Code-Compiler" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WambuaRack&repo=Online-Code-Compiler&theme=dracula" />
+  </a>
+  <a href="https://github.com/WambuaRack/News-Feed-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WambuaRack&repo=News-Feed-App&theme=dracula" />
+  </a>
+  <a href="https://github.com/WambuaRack/Mango-Disease-Detection" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WambuaRack&repo=Mango-Disease-Detection&theme=dracula" />
+  </a>
+
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/WambuaRack/WambuaRack/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <div align="center">
-  <p>💡 “Turning ideas into impactful solutions through code.”</p>
+  <p>⚙️ "Building data pipelines, intelligent systems, and impactful digital experiences through clean, scalable code."</p>
 </div>
