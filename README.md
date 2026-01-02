@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Bachelor of Science in Computer Science – Kabarak University <br>🤖 Passionate about AI, ML, Data, App, Web, and IoT innovations<br>💡 I love building intelligent systems that solve real-world problems<br>🚀 Currently working on Flutter apps and AI-driven Solutions
+🎓 Bachelor of Science in Computer Science – Kabarak University <br>🤖 Passionate about AI, ML, Data, App, Web, and IoT innovations<br> I love building intelligent systems that solve real-world problems<br> Currently working on Flutter apps and AI-driven Solutions
 
 
 ## 🌐 Socials:
